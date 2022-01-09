@@ -144,3 +144,16 @@ body {
 }
 
 /* work */
+.main-v__box {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.main-v__box img {
+    width: 272px;
+    height: 177px;
+}
+
+/* news */
